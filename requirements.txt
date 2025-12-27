@@ -1,0 +1,12 @@
+Django>=5.0,<6.0
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-filter
+drf-spectacular
+celery
+redis
+gunicorn
+psycopg2-binary
+python-dotenv
+Pillow
